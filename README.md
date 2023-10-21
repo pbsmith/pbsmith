@@ -9,4 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a dual citizen with the UK
 
+I completed my first project, a To-Do list console app, check it out in my reimagined-fishstick repo!
+
 -->
