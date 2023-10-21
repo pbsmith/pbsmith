@@ -1,4 +1,4 @@
-### Howdy
+### Howdy! Check out my git
 
 <!--
 
