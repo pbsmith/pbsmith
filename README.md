@@ -2,8 +2,8 @@
 
 <!--
 
-- 🔭 I’m currently working on raspberry pi ideas
-- 🌱 I’m currently learning .NET & C#
+- 🔭 I’m currently working on .NET framework
+- 🌱 I’m currently learning C#
 - 💬 Ask me about my hobbies
 - 📫 How to reach me: pbsmith2008@yahoo.com
 - 😄 Pronouns: he/him
