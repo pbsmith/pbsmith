@@ -1,9 +1,9 @@
-Check out my git
+Check out my git -- 
 
 <!--
 
-- 🔭 I’m currently working on .NET framework
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working with C#/.NET
+- 🌱 I’m currently learning Blazor
 - 💬 Ask me about my hobbies
 - 📫 How to reach me: pbsmith2008@yahoo.com
 
